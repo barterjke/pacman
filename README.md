@@ -1,18 +1,4 @@
-﻿# todo
-
-- [ ] ghost spawn
-- [X] animation for pacman and ghost
-- [ ] animation for vulnerable ghosts
-- [X] finish path
-- [ ] path to smaller grid
-- [ ] portals
-- [ ] refactor code
-- [ ] animation freeze when direction = zero
-- [ ] sound
-- [ ] menu
-- [ ] ui
-- [ ] add other ghosts
-- [X] reset after death
-- [ ] bug with ghost movement
-- [ ] jpg to png
-- [ ] fix score spawn
+﻿# Pacman implementation on Unity
+ 
+ How it looks:
+ ![изображение](https://user-images.githubusercontent.com/113022172/194427523-28ad1a69-cb97-4d7f-a0ff-0085f1ca414b.png)
